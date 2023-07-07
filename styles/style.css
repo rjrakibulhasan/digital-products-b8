@@ -1,0 +1,60 @@
+.logo{
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    color: white;
+
+}
+
+.menu-containar{
+    background-color: rgb(35, 34, 34);
+    padding: 20px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo-img{
+    width: 300px;
+}
+.home{
+    display: flex;
+   
+}
+.items{
+    margin-right: 10px;
+    padding: 7px;
+
+}
+.photo-banner{
+    width: 300px;
+}
+.banner-text{
+    font-size: 25px;
+}
+.main-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+   
+}
+.about{
+    text-align: center;
+}
